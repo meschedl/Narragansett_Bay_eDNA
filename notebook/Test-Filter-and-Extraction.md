@@ -36,7 +36,7 @@ DNA was extracted from both samples with the Qiagen DNeasy Kit and modifications
 - Extracted DNA was frozen at -20 and a gel was run the next day
 - A 1.5% agarose gel was made with GelRed and run for 45 minutes 
 
-![testgel](/images/eDNA_test_gel.jpg)
+![testgel](/images/eDNA-test-gel.jpg)
 
 
 
