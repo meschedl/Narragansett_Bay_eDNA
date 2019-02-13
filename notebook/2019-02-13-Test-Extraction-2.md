@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test eDNA Extractions More Samples
-----
+---
 ### 4 seawater samples were filtered according to the previous protocol 
 ### Samples were separated into 4 different test regimes. Pelleted means centrifugation after digestion and discarding the pellet produced.
 
