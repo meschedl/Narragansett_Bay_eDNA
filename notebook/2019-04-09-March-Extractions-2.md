@@ -3,7 +3,7 @@
 Using Qiagen DNeasy Blood & Tissue kit and modifications from modifications from Renshaw et. al
 
 |Sample|Location|Sampling/Filtering Date| Notes |
-|---|---|---|
+|---|---|---|---|
 |CS-4-2|Colt State Park|03/23/19| from the last 200mL of CS-4, Epoch column |
 |MP-1|Mill Pond|03/23/19| |
 |MP-2|Mill Pond|03/23/19| |
@@ -14,7 +14,7 @@ Using Qiagen DNeasy Blood & Tissue kit and modifications from modifications from
 |CF-3-8|Common Fence Point|03/23/19| from the first 800mL of CF-4, Epoch column|
 
 Followed exact extraction method of [this post](https://github.com/meschedl/Narragansett_Bay_eDNA/blob/master/notebook/2019-04-04-March-2019-Extractions.md)
-However 3 samples (CS-4-2, MP-3, and CF-3-8) were extracted with [Epoch Science columns](http://www.epochlifescience.com/Product/SpinColumn/minispin.aspx) instead of the Qiagen column as a test. 
+However 3 samples (CS-4-2, MP-3, and CF-3-8) were extracted with [Epoch Science columns](http://www.epochlifescience.com/Product/SpinColumn/minispin.aspx) instead of the Qiagen column as a test.
 
 Qubit was done with the Broad Range dsDNA kit
 
