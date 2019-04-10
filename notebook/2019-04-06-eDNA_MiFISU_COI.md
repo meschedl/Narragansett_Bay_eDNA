@@ -114,4 +114,4 @@ a 1% gel was run with GelGreen for 50 min at 110V
 
 ![gel](/images/April6_MiFishU_65C.png)
 
-IPT-3; IPT-6; samples doesn't worked. The rest of the samples (11) works well, but with the presence of a double bands.
+IPT-3; IPT-6; IPT-5 samples doesn't worked. The rest of the samples (11) works well, but with the presence of a double bands.
