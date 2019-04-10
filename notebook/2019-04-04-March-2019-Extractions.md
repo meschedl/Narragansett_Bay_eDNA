@@ -13,8 +13,10 @@ An extraction control was included to check to see if we have any contamination 
 |CS-1|Colt State Park|03/23/19|
 |CS-2|Colt State Park|03/23/19|
 |CS-3|Colt State Park|03/23/19|
-|CS-4|Colt State Park|03/23/19|
+|CS-4-8|Colt State Park|03/23/19|
 |Control|none|none
+
+* sample CS-4 was from only 800mL filtered, the next extraction has the filter with the last 200mL
 
 **DNA Extraction**
 
@@ -57,5 +59,5 @@ An extraction control was included to check to see if we have any contamination 
 |CS-1|42.82|27143|63.8|63.8|
 |CS-2|42.82|27143|59.6|59.8|
 |CS-3|42.82|27143|83.4|83.4|
-|CS-4|42.82|27143|50.6|50.6|
+|CS-4-8|42.82|27143|50.6|50.6|
 |Control|42.82|27143|too low to read|-|
