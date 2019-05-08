@@ -12,3 +12,15 @@
 | 8 | Page 8 | 7 | A3 | COI |
 | 9 | Page 9 | 3 | K1 | COI new reverse primer |
 | 10 | Page 9 | 4 | GSO 6 | COI new reverse primer |
+
+three dashed lines
+
+```
+#Specify working directory
+F=/home/mschedl/Working-CASE-RNA/histat/
+```
+
+just one dashed line
+
+`#Specify working directory
+F=/home/mschedl/Working-CASE-RNA/histat/`
