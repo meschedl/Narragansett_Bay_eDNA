@@ -24,3 +24,12 @@ just one dashed line
 
 `#Specify working directory
 F=/home/mschedl/Working-CASE-RNA/histat/`
+
+
+```
+¯\_(ツ)_/¯ scp -P zzzz mschedl@KITT.uri.edu:/home/mschedl/Working-CASE-RNA/fastqc-before/multiqc_report.html /Users/maggieschedl/Desktop/URI/Classes/Puritz/CASE-RNA/outputs
+```
+
+or
+
+`¯\_(ツ)_/¯ scp -P zzzz mschedl@KITT.uri.edu:/home/mschedl/Working-CASE-RNA/fastqc-before/multiqc_report.html /Users/maggieschedl/Desktop/URI/Classes/Puritz/CASE-RNA/outputs`
