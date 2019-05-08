@@ -33,3 +33,26 @@ F=/home/mschedl/Working-CASE-RNA/histat/`
 or
 
 `¯\_(ツ)_/¯ scp -P zzzz mschedl@KITT.uri.edu:/home/mschedl/Working-CASE-RNA/fastqc-before/multiqc_report.html /Users/maggieschedl/Desktop/URI/Classes/Puritz/CASE-RNA/outputs`
+
+or
+
+```
+for i in ${array1[@]}; do
+        hisat2 --dta -x $F/cvirginica_hisat_edited -1 ${i} -2 $(echo ${i}|sed s/F.trim/R.trim/) -S ${i}.sam
+        samtools sort ${i}.sam > ${i}.s.bam
+    		echo "${i}_bam"
+        rm ${i}.sam
+        echo "HISAT2 PE ${i}" $(date)
+done
+```
+
+
+or
+
+`for i in ${array1[@]}; do
+        hisat2 --dta -x $F/cvirginica_hisat_edited -1 ${i} -2 $(echo ${i}|sed s/F.trim/R.trim/) -S ${i}.sam
+        samtools sort ${i}.sam > ${i}.s.bam
+    		echo "${i}_bam"
+        rm ${i}.sam
+        echo "HISAT2 PE ${i}" $(date)
+done`
